@@ -1,11 +1,11 @@
-### CE IPSK Device Admin
+## CE IPSK Device Admin
 
 This system allows the user to add devices and PSK's to a database that is then leveraged by
 Cisco ISE for IPSK authentication.  
 
-## Installation
+### Installation
 
-# Configuring the endpoint
+### Configuring the endpoint
 
 To configure the endpoint simply to the following:
 
